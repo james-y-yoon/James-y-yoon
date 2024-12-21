@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Isoprene and the atmospheric oxidative capacity
+description: How do plants affect oxidant concentrations?
 img: assets/img/12.jpg
 importance: 1
 category: work
